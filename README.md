@@ -64,7 +64,7 @@ Open the Power BI file (.pbix) to explore the dashboard.
 
 ## 📸 Dashboard Preview  
 The interactive dashboard is available in the repository:  
-👉 [Download Dashboard](Dashboard/github_dashboard.pbix) 
+👉 [Download Dashboard](Dashboard/GitHub_dashboard.pbix) 
    [Dashboard Screenshot](images/dashboard.png)
 
 
