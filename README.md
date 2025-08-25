@@ -48,7 +48,7 @@ This project demonstrates the end-to-end workflow of analyzing GitHub repository
 
 1. Clone the repository
 
-git clone https://github.com/Adeeb0330/github-data-analysis.git
+git clone [https://github.com/Adeeb0330/github-data-analysis.git](https://github.com/Adeeb0330/GitHub_Data_Analysis)
 
 
 2. Install dependencies
